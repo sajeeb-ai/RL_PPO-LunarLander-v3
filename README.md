@@ -16,3 +16,5 @@ ppo-LunarLander-v3/system_info:
 For using this model, see my HuggingFace account:
 https://huggingface.co/Sajeebai/ppo-LunarLander-v3/tree/main
 
+## Description:
+Developed a reinforcement learning model utilizing the Proximal Policy Optimization (PPO) algorithm to train an agent in the LunarLander-v3 environment. The project encompassed configuring the environment, implementing the PPO algorithm using Stable-Baselines3, and evaluating the agent's performance. The trained model and associated files are hosted on Hugging Face's model hub, facilitating easy access and reproducibility. This endeavor enhanced my expertise in reinforcement learning techniques, model training, and deployment.
